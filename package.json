@@ -6,7 +6,7 @@
   "description": "Restaurant Billing Software Backend",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node Server.js",
     "dev": "nodemon server.js"
   },
   "keywords": [],
